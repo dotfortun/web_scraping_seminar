@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 requests = "*"
+tqdm = "*"
+markdownify = "*"
+beautifulsoup4 = "*"
+lxml = "*"
 
 [dev-packages]
 
